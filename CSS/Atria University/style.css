@@ -1,0 +1,8 @@
+.headerr{
+    background-color:palevioletred ;
+    display: flex;
+    padding:30px;
+    align-items: center;
+    justify-content: space-between;
+}
+

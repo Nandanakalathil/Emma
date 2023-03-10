@@ -1,0 +1,112 @@
+
+
+.footer{
+    background-color: brown;
+    font-size: larger;
+}
+.meta{
+    background-color: aqua;
+    display: block;
+    font-size: larger;
+}
+.beta{
+    background-color: orangered;
+    display: inline ;
+    box-shadow: 6px 10px 6px 10px olivedrab;
+    font-size: larger;
+}
+.main{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: medium;
+    border: 2px solid black;
+   
+
+}
+.fa-solidfa-house{
+    font-size: larger
+
+}
+.text{
+    font-size: 64px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+}
+div{
+    margin: left 100px;;
+}
+#p-one{
+    color: red;
+    background-color: rgb(128, 77, 0);
+    text-align: center;
+}
+#p-two{
+    color: aqua;
+    background-color: rgb(20, 19, 18);
+}
+#p-three{
+    color: violet;
+    background-color: rgb(49, 139, 0);
+    text-align: center;
+}
+#p-onee{
+    color:brown;
+    background-color: burlywood;
+    text-align: center;
+}
+#p-twoo{
+    color: rgb(225, 255, 0);
+    background-color: rgb(68, 0, 255);
+}
+#p-threee{
+    color: rgb(88, 5, 7);
+    background-color: rgb(123, 139, 0);
+    text-align: center;
+}
+#p-oneee{
+    color: red;
+    background-color: rgb(124, 0, 128);
+    text-align: center;
+}
+#p-twooo{
+    color: aqua;
+    background-color: rgb(242, 255, 0);
+}
+#p-threeee{
+    color: violet;
+    background-color: darkblue;
+    text-align: center;
+}
+#p-oneeee{
+    color: red;
+    background-color: green;
+    text-align: center;
+}
+#p-twoooo{
+    color: aqua;
+    background-color: orangered;
+}
+#p-threeeee{
+    color: rgb(130, 146, 238);
+    background-color: rgb(139, 0, 97);
+    text-align: center;
+}
+.N one{
+    margin:2px 4px ;
+}
+.N two{
+    margin: 2px solid black;
+}
+.N three{
+    margin: 2px solid black;
+}
+.headerr{
+        background-color:palevioletred ;
+        display: flex;
+        padding:30px;
+        align-items: center;
+        justify-content: space-between;
+}
+    
+    
